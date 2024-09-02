@@ -1,0 +1,32 @@
+export const menu =[
+    {
+        title:"Days of week",
+        screen:"MainWriteScreen",
+        listType:"daysWeeksList",
+        icon:"calendar-today"
+    },
+    {
+        title:"Months",
+        screen:"MainWriteScreen",
+        listType:"monthsList",
+        icon:"calendar-week"
+    },
+    {
+        title:"Seasons",
+        screen:"MainWriteScreen",
+        listType:"seasonsList",
+        icon:"calendar-range"
+    },
+    {
+        title:"FamilyMembers",
+        screen:"MainWriteScreen",
+        listType:"familyMembersList",
+        icon:"nature-people"
+    },
+    {
+        title:"fruits",
+        screen:"MainWriteScreen",
+        listType:"fruitsList",
+        icon:"nature-people"
+    }
+]
